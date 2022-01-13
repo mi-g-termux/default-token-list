@@ -15,6 +15,15 @@
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
+   {
+    "name": "Ghost Inu",
+    "address": "0xeEfD001c893109fC6d5b5C06dfeC817A11C3945f",
+    "symbol": "GHOST",
+    "decimals": 9,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/mi-g-termux/tokenlogo/main/rsz_logo.png"
+  },
+  
   {
     "name": "0x Protocol Token",
     "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
